@@ -16,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-soly&show_icons=true&locale=en&layout=compact" alt="ahmed-soly" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Soly&langs_count=8)
