@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed soliman</h1>
 <h3 align="center">A passionate Flutter developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working at NewUlm
 
 - 📫 How to reach me **ahmed7254@gmail.com**
 
