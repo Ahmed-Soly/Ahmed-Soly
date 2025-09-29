@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working at NewUlm
 
-- 📫 How to reach me **ahmed7254@gmail.com**
+- 📫 How to reach me **ahmedsoliman7254@gmail.com**
+- 💬 Ask me about Flutter.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
