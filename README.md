@@ -33,11 +33,28 @@
     </td>
     <td>
       <h3>🚖 Paxi (Ride-Hailing App)</h3>
-      <p>A professional mobile application for ride-hailing services. Focuses on real-time tracking and efficient driver management.</p>
+      <p>A professional mobile application for ride-hailing and logistics services.</p>
       <ul>
         <li><b>State Management:</b> Implementation using <b>Bloc/Cubit</b>.</li>
-        <li><b>Real-time:</b> Live location tracking using <b>WebSockets</b>.</li>
-        <li><b>Integration:</b> Integrated with <b>Google Maps</b> and payment gateways.</li>
+        <li><b>Real-time:</b> Live location tracking using <b>WebSockets (Pusher/Reverb)</b>.</li>
+        <li><b>Integration:</b> Google Maps and complex payment gateways (Tap/HyperPay).</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://github.com/ahmed-soly/ahmed-soly/raw/main/ulmCare.webp" width="200px" style="border-radius: 15px;" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/System-Medical_Management-red?style=flat-square" />
+    </td>
+    <td>
+      <h3>🏥 UlmCare (Medical System)</h3>
+      <p>A comprehensive medical system focused on high-speed data access and reliable third-party integrations.</p>
+      <ul>
+        <li><b>Performance:</b> High-speed data handling and efficient notification systems.</li>
+        <li><b>Integrations:</b> HyperPay, Zain Cash, and JoFotara.</li>
+        <li><b>Notifications:</b> Real-time alerts powered by <b>Firebase (FCM)</b>.</li>
       </ul>
     </td>
   </tr>
@@ -46,15 +63,14 @@
     <td align="center" width="40%">
       <img src="https://github.com/ahmed-soly/ahmed-soly/raw/main/ElShrouk_landary.jpg" width="200px" style="border-radius: 15px;" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Platform-Android_%26_iOS-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Published-green?style=flat-square" />
     </td>
     <td>
       <h3>🧺 Alshrouk Laundry</h3>
-      <p>A comprehensive laundry service application. Built with Flutter to provide a seamless user experience on both major mobile platforms.</p>
+      <p>A service application for laundry management, fully deployed on Android and iOS.</p>
       <ul>
-        <li><b>Network:</b> Robust API integration using <b>Dio</b>.</li>
-        <li><b>UI:</b> Custom-built widgets and smooth UI transitions.</li>
-        <li><b>Deployment:</b> Fully managed publishing to Google Play and App Store.</li>
+        <li><b>Network:</b> API integration using <b>Dio</b> with professional interceptors.</li>
+        <li><b>UI:</b> Custom widgets and smooth animations for a premium user experience.</li>
       </ul>
     </td>
   </tr>
