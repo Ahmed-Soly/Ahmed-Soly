@@ -22,42 +22,64 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&" alt="ahmed-soly" /></p>
 
-# 📱 My Mobile Development Journey
 
+## 📱 Featured Projects & Experience
 
 <table>
   <tr>
-    <td align="center" width="400px">
-      <img src="https://via.placeholder.com/200x400.png?text=App+Screenshot" width="250px" style="border-radius: 15px;" alt="Project Preview" />
+    <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/ahmed-soly/ahmed-soly/main/paxi_logo.png" width="180px" alt="Paxi Logo" style="border-radius: 20px;" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-02569B?style=for-the-badge&logo=flutter" />
-      <br/>
-      <img src="https://img.shields.io/badge/State_Management-Bloc/Cubit-0277BD?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Role-Lead_Flutter_Developer-02569B?style=flat-square" />
     </td>
-    <td valign="top">
-      <h3>🚀 Project Name (e.g., Paxi Driver)</h3>
+    <td>
+      <h3>🚖 Paxi (Ride-Hailing System)</h3>
       <p>
-        A professional <b>Ride-Hailing</b> solution built with high-concurrency handling and real-time tracking. Focuses on performance and seamless user experience.
+        A high-concurrency <b>Ride-Hailing</b> and logistics platform. Focused on real-time tracking and seamless driver-client communication.
       </p>
-      
-      <h4>✨ Key Features & Technical Wins</h4>
       <ul>
-        <li><b>Real-time Tracking:</b> Integrated WebSockets (SignalR/Pusher) for live driver updates.</li>
-        <li><b>Payments:</b> Full implementation of Tap & HyperPay gateways.</li>
-        <li><b>Maps:</b> Advanced Google Maps integration with custom polyline drawing.</li>
+        <li>🚀 <b>Architecture:</b> Clean Architecture with <b>Bloc/Cubit</b> for robust state management.</li>
+        <li>📡 <b>Real-time:</b> Integrated <b>WebSockets (Pusher/Reverb)</b> for live location tracking.</li>
+        <li>💳 <b>Payments:</b> Seamless integration with <b>Tap & HyperPay</b> gateways.</li>
       </ul>
-      
-      <h4>🛠 Tech Stack & Tools</h4>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Dio-black?style=flat-square" />
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
       </p>
-      
-      <a href="https://play.google.com/store/apps/details?id=your.app.id">
-        <img src="https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play" />
-      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/ahmed-soly/ahmed-soly/main/alshrouk_logo.png" width="180px" alt="Alshrouk Logo" style="border-radius: 20px;" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Published-green?style=flat-square" />
+    </td>
+    <td>
+      <h3>🧺 Alshrouk Laundry</h3>
+      <p>
+        A complete service application for laundry management, supporting both <b>Android & iOS</b>.
+      </p>
+      <ul>
+        <li>🎨 <b>UI/UX:</b> Developed complex custom widgets and smooth animations.</li>
+        <li>🔗 <b>API:</b> Consumed RESTful APIs using <b>Dio</b> with interceptors for token management.</li>
+        <li>📱 <b>Stores:</b> Managed the full deployment process to App Store & Google Play.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Dio-000000?style=flat-square&logo=dart&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 🛠️ More Tools I Use
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-Success?style=for-the-badge&logo=codestats&color=02569B" />
+  <img src="https://img.shields.io/badge/BLoC_Pattern-Success?style=for-the-badge&logo=flutter&color=40C4FF" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
