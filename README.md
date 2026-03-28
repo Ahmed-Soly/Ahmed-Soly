@@ -38,7 +38,7 @@
 
 <table border="0">
     <tr>
-    <td width="30%" align="center" valign="top">
+    <td width="30%" align="center" valign="middle">
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
@@ -68,32 +68,56 @@
   </tr>
   
   <tr>
-    <td width="30%" align="center" valign="top">
+    <td width="30%" align="center" valign="middle">
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.png?raw=true" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
       <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🚗 Paxi Go & Paxi Driver</h2>
       <ul>
-        <li>Developing core features for both User and Driver applications within a team environment.</li>
-        <li>Implementing real-time <b>WebSocket</b> handling for live trip tracking and updates.</li>
-        <li>Building dynamic <b>Fare Calculation</b> and efficient trip lifecycle management.</li>
-        <li>Ensuring seamless synchronization between background services and user UI.</li>
+        <li><b>Versatile Ride-Hailing:</b> Offers multiple vehicle categories including Economy, Premium, and Scooter options for fast city transit.</li>
+        <li><b>Smart Delivery Solutions:</b> Integrated logistics for sending gifts and parcels with real-time motorcycle courier services.</li>
+        <li><b>Real-Time Tracking:</b> High-precision live tracking for both rides and deliveries to ensure security and punctuality.</li>
+        <li><b>Dynamic Fare Engine:</b> An automated pricing system that adapts based on vehicle type, distance, and service category.</li>
+        <li><b>Seamless Driver-User Sync:</b> A robust communication layer ensuring smooth trip assignments and status updates.</li>
       </ul>
+       <div style="margin-top: 10px;">
+        <a href="https://play.google.com/store/apps/details?id=com.newulm.paxi" target="_blank">
+          <img src="https://img.shields.io/badge/Paxi Go-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Paxi Go" height="25"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/paxi-go/id6758083168" target="_blank">
+          <img src="https://img.shields.io/badge/Paxi Go-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Paxi Go" height="25"/>
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.newulm.paxi.driver" target="_blank">
+          <img src="https://img.shields.io/badge/Paxi Driver-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Paxi Driver" height="25"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/paxi-go-driver/id6758097733" target="_blank">
+          <img src="https://img.shields.io/badge/Paxi Driver-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Paxi Driver" height="25"/>
+        </a>
+      </div>
     </td>
   </tr>
 
   <tr>
-    <td width="30%" align="center" valign="top">
+    <td width="30%" align="center" valign="middle">
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ElShrouk_landary.jpg? alt="Laundry" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
-      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🧺 Al-Shorouk Laundry</h2>
+      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🧺 غسيل-وكي-Gassel-kai</h2>
       <ul>
-        <li>Contributed to developing an end-to-end laundry service platform (User & Provider).</li>
-        <li>Implemented dynamic <b>Order Tracking</b> and service scheduling features.</li>
-        <li>Integrated localized <b>Payment Gateways</b> and automated receipt generation.</li>
-        <li>Optimized UI performance for seamless browsing of services and categories.</li>
+        <li><b>All-in-One Cleaning:</b> Professional laundry and pressing services for all types of clothing, footwear, carpets, and upholstery.</li>
+        <li><b>Subscription Packages:</b> Specialized bundles and loyalty offers providing users with premium discounts and recurring service plans.</li>
+        <li><b>Integrated Digital Wallet:</b> Advanced payment system supporting In-app Wallet (Rechargeable), Credit Cards, and Cash on Delivery (COD).</li>
+        <li><b>Door-to-Door Service:</b> Automated logistics for scheduling pick-ups from home and tracking deliveries to any specified location.</li>
+        <li><b>Dynamic Order Management:</b> Real-time tracking of order status from "Picked-up" to "Delivered" with instant notifications.</li>
       </ul>
+       <div style="margin-top: 10px;">
+        <a href="https://play.google.com/store/apps/details?id=com.elshorouk.laundry" target="_blank">
+          <img src="https://img.shields.io/badge/Gassel-kai-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Gassel-kai" height="25"/>
+        </a>
+        <a href="https://apps.apple.com/sa/app/%D8%BA%D8%B3%D9%8A%D9%84-%D9%88%D9%83%D9%8A-gassel-kai/id6759869513?l=ar" target="_blank">
+          <img src="https://img.shields.io/badge/Gassel-kai-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Gassel-kai" height="25"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
