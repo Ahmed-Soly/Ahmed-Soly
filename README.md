@@ -49,6 +49,22 @@
         <li>Working on standardized API layers with high-level error handling.</li>
         <li>Focusing on modular and reusable UI components to speed up development.</li>
       </ul>
+      <p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare&hl=ar" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GooglePlay.svg" width="35" title="Ulm Care (Android)"/>
+  </a>
+  <a href="https://apps.apple.com/us/app/ulm-care/id6741508500" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple.svg" width="35" title="Ulm Care (iOS)"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmconnect&hl=ar" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GooglePlay.svg" width="35" title="Ulm Connect (Android)"/>
+  </a>
+  <a href="https://apps.apple.com/us/app/ulm-connect/id6742833273" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple.svg" width="35" title="Ulm Connect (iOS)"/>
+  </a>
+</p>
+      
       <div style="margin-top: 10px;">
         <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare&hl=ar" target="_blank">
           <img src="https://img.shields.io/badge/Ulm_Care-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Care" height="25"/>
