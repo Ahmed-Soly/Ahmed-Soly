@@ -40,7 +40,7 @@
   <tr>
     <td width="50%">
       <h4>🚗 Paxi Go & Paxi Driver (Logistics)</h4>
-      <img src="https://via.placeholder.com/400x200?text=Paxi+Logistics+Ecosystem" alt="Paxi Project" width="100%"/>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.png" alt="Paxi Project" width="100%"/>
     </td>
     <td>
       <br>
@@ -56,7 +56,7 @@
   <tr>
     <td width="50%">
       <h4>🏥 UlmCare & UlmCare Connect</h4>
-      <img src="https://via.placeholder.com/400x200?text=UlmCare+Healthcare+System" alt="UlmCare Project" width="100%"/>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp" alt="UlmCare Project" width="100%"/>
     </td>
     <td>
       <br>
@@ -68,6 +68,23 @@
       </ul>
     </td>
   </tr>
+  
+<tr>
+    <td width="50%" align="center">
+      <h4>🧺 Al-Shorouk Laundry (Service App)</h4>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/shorouk_laundry.webp?raw=true" alt="Al-Shorouk Laundry Project" width="100%" style="border-radius: 10px;"/>
+    </td>
+    <td>
+      <br>
+      <ul>
+        <li>Contributed to developing an end-to-end laundry service platform (User & Provider).</li>
+        <li>Implemented dynamic <b>Order Tracking</b> and service scheduling features.</li>
+        <li>Integrated localized <b>Payment Gateways</b> and automated receipt generation.</li>
+        <li>Optimized UI performance for seamless browsing of services and categories.</li>
+      </ul>
+    </td>
+  </tr>
+  
 </table>
 
 ---
