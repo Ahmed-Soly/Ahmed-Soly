@@ -37,6 +37,21 @@
 ### 💻 Featured Projects
 
 <table border="0">
+    <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" width="100%" style="border-radius: 10px;"/>
+    </td>
+    <td width="70%" valign="top">
+      <h3 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🏥 UlmCare & Ulm Connect</h3>
+      <ul>
+        <li>Part of the team building a comprehensive healthcare management and connectivity system.</li>
+        <li>Implemented a robust <b>Multi-theme</b> engine (Light/Dark mode) for enhanced accessibility.</li>
+        <li>Working on standardized API layers with high-level error handling.</li>
+        <li>Focusing on modular and reusable UI components to speed up development.</li>
+      </ul>
+    </td>
+  </tr>
+  
   <tr>
     <td width="30%" align="center" valign="top">
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.png?raw=true" width="100%" style="border-radius: 10px;"/>
@@ -48,21 +63,6 @@
         <li>Implementing real-time <b>WebSocket</b> handling for live trip tracking and updates.</li>
         <li>Building dynamic <b>Fare Calculation</b> and efficient trip lifecycle management.</li>
         <li>Ensuring seamless synchronization between background services and user UI.</li>
-      </ul>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" width="100%" style="border-radius: 10px;"/>
-    </td>
-    <td width="70%" valign="top">
-      <h4>🏥 UlmCare & Connect</h4>
-      <ul>
-        <li>Part of the team building a comprehensive healthcare management and connectivity system.</li>
-        <li>Implemented a robust <b>Multi-theme</b> engine (Light/Dark mode) for enhanced accessibility.</li>
-        <li>Working on standardized API layers with high-level error handling.</li>
-        <li>Focusing on modular and reusable UI components to speed up development.</li>
       </ul>
     </td>
   </tr>
@@ -82,7 +82,6 @@
     </td>
   </tr>
 </table>
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
