@@ -131,5 +131,4 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-soly&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&theme=tokyonight" />
 </p>
