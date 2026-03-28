@@ -3,7 +3,7 @@
   <h3>Mid-Level Flutter Developer | CS Graduate @ Benha University</h3>
   
   <p align="center">
-    A passionate Computer Science graduate with over a year of hands-on experience in <b>Flutter</b>. 
+    A passionate Computer Science graduate with over two years of hands-on experience in <b>Flutter</b>. 
     I specialize in turning complex business requirements into seamless, high-performance mobile ecosystems.
   </p>
 
