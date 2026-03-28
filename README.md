@@ -12,12 +12,8 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/Clean_Architecture-414141?style=for-the-badge" />
   </p>
-  
-  <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmed-soly&label=Profile%20views&color=0e75b6&style=flat-square" alt="ahmed-soly" /> 
-  </p>
 </div>
----
+
 
 ### 🚀 About Me
 - 🔭 **Mid-Level Flutter Developer** at **New Ulm**, specializing in end-to-end mobile development.
