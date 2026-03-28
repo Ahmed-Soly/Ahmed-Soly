@@ -51,16 +51,16 @@
       </ul>
       <div style="margin-top: 10px;">
         <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare&hl=ar" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Care" height="25"/>
+          <img src="https://img.shields.io/badge/Ulm_Care-Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Care Play Store" height="25"/>
         </a>
         <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmconnect&hl=ar" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Connect" height="25"/>
+          <img src="https://img.shields.io/badge/Ulm_Connect-Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Connect Play Store" height="25"/>
         </a>
         <a href="https://apps.apple.com/us/app/ulm-care/id6741508500" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm care" height="25"/>
+          <img src="https://img.shields.io/badge/Ulm_Care-App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm Care App Store" height="25"/>
         </a>
         <a href="https://apps.apple.com/us/app/ulm-connect/id6742833273" target="_blank">
-          <img src="https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm connect" height="25"/>
+          <img src="https://img.shields.io/badge/Ulm_Connect-App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm Connect App Store" height="25"/>
         </a>
       </div>
     </td>
