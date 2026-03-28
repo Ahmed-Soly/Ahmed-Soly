@@ -43,11 +43,12 @@
     </td>
     <td width="70%" valign="top">
       <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🏥 UlmCare & Ulm Connect</h2>
-      <ul>
-        <li>Part of the team building a comprehensive healthcare management and connectivity system.</li>
-        <li>Implemented a robust <b>Multi-theme</b> engine (Light/Dark mode) for enhanced accessibility.</li>
-        <li>Working on standardized API layers with high-level error handling.</li>
-        <li>Focusing on modular and reusable UI components to speed up development.</li>
+      <ul style="margin-top: 0; margin-bottom: 15px;">
+        <li>Collaborated with the development team to build a medical system covering <b>Doctor Bookings</b>, surgeries, and lab tests.</li>
+        <li>Contributed to implementing <b>Real-time Home Visit Services</b> for on-demand medical and nursing care.</li>
+        <li>Worked on integrating automated medical report sharing and patient follow-up systems.</li>
+        <li>Participated in developing <b>Ulm Connect</b> to manage clinics and hospital coordination tools.</li>
+        <li>Followed <b>Clean Architecture</b> and <b>Cubit</b> patterns to ensure scalable and maintainable code within the team.</li>
       </ul>
       <div style="margin-top: 10px;">
         <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare&hl=ar" target="_blank">
@@ -65,38 +66,6 @@
       </div>
     </td>
   </tr>
-
-  <tr>
-  <td width="30%" align="center" valign="top">
-    <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" alt="UlmCare" width="100%" style="border-radius: 10px;"/>
-  </td>
-  <td width="70%" valign="top">
-    <h3 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🏥 UlmCare & Ulm Connect</h3>
-    <ul style="margin-top: 0; margin-bottom: 15px;">
-      <li>Full-cycle medical system covering <b>Doctor Bookings</b>, surgeries, and lab tests.</li>
-      <li>Unique <b>Home Visit Service</b> module for on-demand medical care.</li>
-      <li>Built <b>Ulm Connect</b> to empower clinics with robust management tools.</li>
-      <li>Architected with <b>Clean Code</b>, <b>Cubit</b>, and <b>Rest API</b> integrations.</li>
-    </ul>
-    <div align="left">
-      <span style="font-weight: bold; vertical-align: middle; margin-right: 10px;">Get it on:</span>
-      <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare" target="_blank" title="Ulm Care Android">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GooglePlay.svg" width="32" style="vertical-align: middle;"/>
-      </a>
-      <a href="https://apps.apple.com/us/app/ulm-care/id6741508500" target="_blank" title="Ulm Care iOS">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple.svg" width="32" style="vertical-align: middle;"/>
-      </a>
-      &nbsp;&nbsp; | &nbsp;&nbsp;
-      <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmconnect" target="_blank" title="Ulm Connect Android">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GooglePlay.svg" width="32" style="vertical-align: middle;"/>
-      </a>
-      <a href="https://apps.apple.com/us/app/ulm-connect/id6742833273" target="_blank" title="Ulm Connect iOS">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Apple.svg" width="32" style="vertical-align: middle;"/>
-      </a>
-    </div>
-  </td>
-</tr>
-
   
   <tr>
     <td width="30%" align="center" valign="top">
