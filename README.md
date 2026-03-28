@@ -129,8 +129,5 @@
   </tr>
 </table>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmed-soly&show_icons=true&locale=en&theme=tokyonight&hide_border=false" />
-  
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ahmed-soly&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&" alt="ahmed-soly" /></p>
