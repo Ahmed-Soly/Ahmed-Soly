@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
-<h3 align="center">Senior Flutter Developer | Mobile Solutions Architect from Egypt 🇪🇬</h3>
+<h3 align="center">Mid-Level Flutter Developer | Crafting Scalable Mobile Solutions 📱</h3>
+<p align="center">Based in Alexandria, Egypt 🇪🇬</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ahmed-soly&label=Profile%20views&color=0e75b6&style=flat-square" alt="ahmed-soly" /> 
@@ -8,10 +9,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently architecting **NewUlm / UlmCare**, a comprehensive healthcare management ecosystem.
-- 📱 Specialized in building high-performance ride-sharing and delivery platforms.
-- 🛠 Expert in **Clean Architecture**, **State Management**, and **Real-time WebSockets**.
-- 💻 Developing on **Mac Mini M4** for maximum efficiency.
+- 🔭 **Mid-Level Flutter Developer** at **New Ulm**, specializing in end-to-end mobile development.
+- 🏗️ **Main Developer** for the **UlmCare Ecosystem**, managing both **UlmCare** and **UlmCare Connect**.
+- 🚗 Responsible for the full implementation of **Paxi Go** and **Paxi Driver** logistics platforms.
+- 🛠️ Expert in **Clean Architecture**, **State Management**, and real-time **WebSocket** integration.
+- 🎯 Focused on writing clean, maintainable code and optimizing app performance.
 - 📫 Reach me at: **ahmedsoliman7254@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,35 +26,35 @@
 
 ### 💻 Featured Projects
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
-      <h4>🚗 Ride-Sharing & Delivery Ecosystem</h4>
-      <img src="https://via.placeholder.com/400x200?text=Ride-Sharing+App+Preview" alt="Ride Sharing Project" width="100%"/>
+      <h4>🚗 Paxi Go & Paxi Driver (Logistics)</h4>
+      <img src="https://via.placeholder.com/400x200?text=Paxi+Logistics+Ecosystem" alt="Paxi Project" width="100%"/>
     </td>
     <td>
-      <br><br>
+      <br>
       <ul>
-        <li>Implemented real-time <b>WebSocket</b> event handling for trip lifecycles (Created, Assigned, Started).</li>
-        <li>Designed a complex <b>Fare Breakdown</b> system and trip history modules.</li>
-        <li>Integrated advanced <b>Location Services</b> and background notification management.</li>
-        <li>Built with <b>Clean Architecture</b> for scalability and easy maintenance.</li>
+        <li>Developed the complete workflow for both User and Driver applications.</li>
+        <li>Implemented real-time <b>WebSocket</b> handling for live trip tracking.</li>
+        <li>Built complex <b>Fare Calculation</b> and automated trip assignment logic.</li>
+        <li>Managed background location services and notification synchronization.</li>
       </ul>
     </td>
   </tr>
   
   <tr>
     <td width="50%">
-      <h4>🏥 UlmCare (Healthcare System)</h4>
-      <img src="https://via.placeholder.com/400x200?text=UlmCare+Project+Preview" alt="Healthcare Project" width="100%"/>
+      <h4>🏥 UlmCare & UlmCare Connect</h4>
+      <img src="https://via.placeholder.com/400x200?text=UlmCare+Healthcare+System" alt="UlmCare Project" width="100%"/>
     </td>
     <td>
-      <br><br>
+      <br>
       <ul>
-        <li>Developed a robust system for hospital and clinic management.</li>
-        <li>Implemented dynamic <b>Multi-theme support</b> (Light/Dark mode) using professional UI patterns.</li>
-        <li>Standardized API communication with <b>ISO 8601 UTC</b> date formatting.</li>
-        <li>Optimized app performance for handling large medical datasets.</li>
+        <li>Responsible for building the healthcare management system and its connectivity tools.</li>
+        <li>Implemented a sophisticated <b>Multi-theme</b> engine (Light/Dark mode).</li>
+        <li>Standardized API communication layer with robust error handling.</li>
+        <li>Designed a modular UI architecture for high scalability and reusability.</li>
       </ul>
     </td>
   </tr>
@@ -72,6 +74,6 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-soly&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ahmed-soly" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&theme=tokyonight" alt="ahmed-soly" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-soly&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&theme=tokyonight" />
 </p>
