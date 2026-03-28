@@ -44,21 +44,21 @@
     <td width="70%" valign="top">
       <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🏥 UlmCare & Ulm Connect</h2>
       <ul style="margin-top: 0; margin-bottom: 15px;">
-        <li>Collaborated with the development team to build a medical system covering <b>Doctor Bookings</b>, surgeries, and lab tests.</li>
-        <li>Contributed to implementing <b>Real-time Home Visit Services</b> for on-demand medical and nursing care.</li>
-        <li>Worked on integrating automated medical report sharing and patient follow-up systems.</li>
-        <li>Participated in developing <b>Ulm Connect</b> to manage clinics and hospital coordination tools.</li>
-        <li>Followed <b>Clean Architecture</b> and <b>Cubit</b> patterns to ensure scalable and maintainable code within the team.</li>
+        <li><b>One-Stop Medical Hub:</b> Seamless booking for doctor appointments, complex surgeries, radiology, and laboratory tests.</li>
+        <li><b>Real-Time Home Visits:</b> A premium feature allowing users to request doctors or nurses for on-demand home examinations with live tracking.</li>
+        <li><b>Ulm Connect:</b> A dedicated management interface for healthcare providers to coordinate schedules and patient records efficiently.</li>
+        <li><b>Automated Medical Records:</b> Instant sharing of lab results and radiology reports directly to the patient's profile.</li>
+        <li><b>User-Centric UI:</b> A modern, scalable interface built to handle high-traffic medical interactions with high performance.</li>
       </ul>
       <div style="margin-top: 10px;">
         <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmcare&hl=ar" target="_blank">
           <img src="https://img.shields.io/badge/Ulm_Care-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Care" height="25"/>
         </a>
-        <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmconnect&hl=ar" target="_blank">
-          <img src="https://img.shields.io/badge/Ulm_Connect-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Connect" height="25"/>
-        </a>
         <a href="https://apps.apple.com/us/app/ulm-care/id6741508500" target="_blank">
           <img src="https://img.shields.io/badge/Ulm_Care-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm Care" height="25"/>
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.newulm.ulmconnect&hl=ar" target="_blank">
+          <img src="https://img.shields.io/badge/Ulm_Connect-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Ulm Connect" height="25"/>
         </a>
         <a href="https://apps.apple.com/us/app/ulm-connect/id6742833273" target="_blank">
           <img src="https://img.shields.io/badge/Ulm_Connect-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Ulm Connect" height="25"/>
