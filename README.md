@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
-<h3 align="center">Mid-Level Flutter Developer | Crafting Scalable Mobile Solutions 📱</h3>
-<p align="center">Based in Alexandria, Egypt 🇪🇬</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ahmed-soly&label=Profile%20views&color=0e75b6&style=flat-square" alt="ahmed-soly" /> 
-</p>
-
 <div align="center">
   <h1>Hi 👋, I'm Ahmed Soliman</h1>
   <h3>Mid-Level Flutter Developer | CS Graduate @ Benha University</h3>
@@ -19,6 +11,10 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/Clean_Architecture-414141?style=for-the-badge" />
+  </p>
+  
+  <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ahmed-soly&label=Profile%20views&color=0e75b6&style=flat-square" alt="ahmed-soly" /> 
   </p>
 </div>
 ---
