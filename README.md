@@ -40,7 +40,7 @@
   <tr>
     <td width="30%" align="center" valign="top">
       <h4>🚗 Paxi Go & Paxi Driver</h4>
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.webp?raw=true" alt="Paxi" width="100%" style="border-radius: 10px;"/>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.png?raw=true" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
       <br><br>
@@ -56,7 +56,7 @@
   <tr>
     <td width="30%" align="center" valign="top">
       <h4>🏥 UlmCare & Connect</h4>
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" alt="UlmCare" width="100%" style="border-radius: 10px;"/>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
       <br><br>
@@ -72,7 +72,7 @@
   <tr>
     <td width="30%" align="center" valign="top">
       <h4>🧺 Al-Shorouk Laundry</h4>
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/shorouk_laundry.webp?raw=true" alt="Laundry" width="100%" style="border-radius: 10px;"/>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ElShrouk_landary.jpg? alt="Laundry" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
       <br><br>
