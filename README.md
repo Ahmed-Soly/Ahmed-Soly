@@ -102,7 +102,7 @@
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ElShrouk_landary.jpg? alt="Laundry" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
-      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🧺 غسيل-وكي-Gassel-kai</h2>
+      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🧺Gassel kai</h2>
       <ul>
         <li><b>All-in-One Cleaning:</b> Professional laundry and pressing services for all types of clothing, footwear, carpets, and upholstery.</li>
         <li><b>Subscription Packages:</b> Specialized bundles and loyalty offers providing users with premium discounts and recurring service plans.</li>
@@ -112,10 +112,10 @@
       </ul>
        <div style="margin-top: 10px;">
         <a href="https://play.google.com/store/apps/details?id=com.elshorouk.laundry" target="_blank">
-          <img src="https://img.shields.io/badge/Gassel-kai-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Gassel-kai" height="25"/>
+          <img src="https://img.shields.io/badge/Gassel kai-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Gassel-kai" height="25"/>
         </a>
         <a href="https://apps.apple.com/sa/app/%D8%BA%D8%B3%D9%8A%D9%84-%D9%88%D9%83%D9%8A-gassel-kai/id6759869513?l=ar" target="_blank">
-          <img src="https://img.shields.io/badge/Gassel-kai-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Gassel-kai" height="25"/>
+          <img src="https://img.shields.io/badge/Gassel kai-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Gassel-kai" height="25"/>
         </a>
       </div>
     </td>
