@@ -129,5 +129,6 @@
   </tr>
 </table>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&" alt="ahmed-soly" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-soly&theme=tokyonight" />
+</p>
