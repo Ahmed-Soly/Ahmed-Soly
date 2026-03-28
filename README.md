@@ -42,7 +42,6 @@
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.png?raw=true" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
-      <br><br>
       <h4>🚗 Paxi Go & Paxi Driver</h4>
       <ul>
         <li>Developing core features for both User and Driver applications within a team environment.</li>
@@ -58,7 +57,6 @@
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
-      <br><br>
       <h4>🏥 UlmCare & Connect</h4>
       <ul>
         <li>Part of the team building a comprehensive healthcare management and connectivity system.</li>
@@ -74,7 +72,6 @@
       <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ElShrouk_landary.jpg? alt="Laundry" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
-      <br><br>
       <h4>🧺 Al-Shorouk Laundry</h4>
       <ul>
         <li>Contributed to developing an end-to-end laundry service platform (User & Provider).</li>
