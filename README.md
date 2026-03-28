@@ -38,44 +38,44 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <h4>🚗 Paxi Go & Paxi Driver (Logistics)</h4>
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.png" alt="Paxi Project" width="60%"/>
+    <td width="30%" align="center" valign="top">
+      <h4>🚗 Paxi Go & Paxi Driver</h4>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/paxi.webp?raw=true" alt="Paxi" width="100%" style="border-radius: 10px;"/>
     </td>
-    <td>
-      <br>
+    <td width="70%" valign="top">
+      <br><br>
       <ul>
-        <li>Developed the complete workflow for both User and Driver applications.</li>
-        <li>Implemented real-time <b>WebSocket</b> handling for live trip tracking.</li>
-        <li>Built complex <b>Fare Calculation</b> and automated trip assignment logic.</li>
-        <li>Managed background location services and notification synchronization.</li>
+        <li>Developing core features for both User and Driver applications within a team environment.</li>
+        <li>Implementing real-time <b>WebSocket</b> handling for live trip tracking and updates.</li>
+        <li>Building dynamic <b>Fare Calculation</b> and efficient trip lifecycle management.</li>
+        <li>Ensuring seamless synchronization between background services and user UI.</li>
       </ul>
     </td>
   </tr>
   
   <tr>
-    <td width="50%">
-      <h4>🏥 UlmCare & UlmCare Connect</h4>
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp" alt="UlmCare Project" width="60%"/>
+    <td width="30%" align="center" valign="top">
+      <h4>🏥 UlmCare & Connect</h4>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ulmCare.webp?raw=true" alt="UlmCare" width="100%" style="border-radius: 10px;"/>
     </td>
-    <td>
-      <br>
+    <td width="70%" valign="top">
+      <br><br>
       <ul>
-        <li>Responsible for building the healthcare management system and its connectivity tools.</li>
-        <li>Implemented a sophisticated <b>Multi-theme</b> engine (Light/Dark mode).</li>
-        <li>Standardized API communication layer with robust error handling.</li>
-        <li>Designed a modular UI architecture for high scalability and reusability.</li>
+        <li>Part of the team building a comprehensive healthcare management and connectivity system.</li>
+        <li>Implemented a robust <b>Multi-theme</b> engine (Light/Dark mode) for enhanced accessibility.</li>
+        <li>Working on standardized API layers with high-level error handling.</li>
+        <li>Focusing on modular and reusable UI components to speed up development.</li>
       </ul>
     </td>
   </tr>
-  
-<tr>
-    <td width="50%" align="center">
-      <h4>🧺 Al-Shorouk Laundry (Service App)</h4>
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/shorouk_laundry.webp?raw=true" alt="Al-Shorouk Laundry Project" width="60%" style="border-radius: 10px;"/>
+
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <h4>🧺 Al-Shorouk Laundry</h4>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/shorouk_laundry.webp?raw=true" alt="Laundry" width="100%" style="border-radius: 10px;"/>
     </td>
-    <td>
-      <br>
+    <td width="70%" valign="top">
+      <br><br>
       <ul>
         <li>Contributed to developing an end-to-end laundry service platform (User & Provider).</li>
         <li>Implemented dynamic <b>Order Tracking</b> and service scheduling features.</li>
@@ -84,9 +84,7 @@
       </ul>
     </td>
   </tr>
-  
 </table>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
