@@ -16,7 +16,7 @@
 
 
 ### 🚀 About Me
-- 🔭 **Mid-Level Flutter Developer** at **New Ulm**, specializing in end-to-end mobile development.
+- 🔭 **Mid-Level Flutter Developer, specializing in end-to-end mobile development.
 - 🏗️ **Main Developer** for the **UlmConnect Ecosystem**, managing both **UlmCare** and **UlmCare Connect**.
 - 🚗 Contributing to the development and implementation of **Paxi Go** and **Paxi Driver** logistics platforms.
 - 🛠️ Expert in **Clean Architecture**, **State Management**, and real-time **WebSocket** integration.
