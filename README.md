@@ -126,7 +126,35 @@
         </a>
       </div>
     </td>
+    
   </tr>
+    <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ElShrouk_landary.jpg? alt="Laundry" width="100%" style="border-radius: 10px;"/>
+    </td>
+    <td width="70%" valign="top">
+      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">👕 Saif Amman</h2>
+      <ul>
+        <li><b>Real-Time Bus Tracking:</b> Live GPS monitoring on the map, allowing parents to track the school bus route step-by-step for ultimate peace of mind.</li>
+        <li><b>Smart Proximity Alerts:</b> Instant push notifications sent to parents when the bus is approaching the pickup zone, arriving at school, or experiencing any delays.</li>
+        <li><b>Digital Attendance System:</b> A streamlined check-in/check-out workflow for supervisors to log students as they board or exit the bus, ensuring no child is left behind.</li>
+        <li><b>Driver Route Optimization:</b> Dedicated navigation tools that provide drivers with the most efficient daily routes, dynamic traffic updates, and scheduled stops.</li>
+        <li><b>Supervisor Control Hub:</b> An easy-to-use interface for bus supervisors to manage student rosters, update trip statuses, and communicate directly with parents.</li>
+        <li><b>Absence & Absence Management:</b> Allows parents to report a student's absence in advance through the app, automatically updating the driver’s route and saving unnecessary waiting time.</li>
+      </ul>
+       <div style="margin-top: 10px;">
+        <a href="https://play.google.com/store/apps/details?id=com.binSaifTransport.saifAman" target="_blank">
+          <img src="https://img.shields.io/badge/Saif Amman-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Saif Amman" height="25"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/saif-aman/id6768245808">
+          <img src="https://img.shields.io/badge/Saif Amman-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="Saif Amman" height="25"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+
+
+  
 </table>
 
 <p align="center">
