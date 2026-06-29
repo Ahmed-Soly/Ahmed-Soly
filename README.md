@@ -130,10 +130,10 @@
   </tr>
     <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/ElShrouk_landary.jpg? alt="Laundry" width="100%" style="border-radius: 10px;"/>
+      <img src="https://github.com/Ahmed-Soly/Ahmed-Soly/blob/main/saif_amman_logo.png? alt="Laundry" width="100%" style="border-radius: 10px;"/>
     </td>
     <td width="70%" valign="top">
-      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">👕 Saif Amman</h2>
+      <h2 style="margin-top: 0; margin-bottom: 10px; font-weight: bold;">🚌 Saif Amman</h2>
       <ul>
         <li><b>Real-Time Bus Tracking:</b> Live GPS monitoring on the map, allowing parents to track the school bus route step-by-step for ultimate peace of mind.</li>
         <li><b>Smart Proximity Alerts:</b> Instant push notifications sent to parents when the bus is approaching the pickup zone, arriving at school, or experiencing any delays.</li>
